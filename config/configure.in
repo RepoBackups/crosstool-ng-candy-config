@@ -2,7 +2,7 @@
 # Default values as found by ./configure
 
 config CONFIGURE_has_make381
-    bool
+    def_bool y
 
 config CONFIGURE_has_xz
     def_bool y
