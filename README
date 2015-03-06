@@ -14,7 +14,7 @@ Ubuntu Linux 64BIT 10.x -> 12.04 or higher
 
 sudo apt-get install mercurial mercurial-common flex bison gperf ncurses-dev texinfo gcc g++ \
 autoconf automake libtool gawk patch autotools-dev libsigsegv2 libmpfr-dev libgmp-dev \
-libltdl-dev libgmpxx4ldbl libmpc-dev expat libexpat1-dev libpython3.3 libpython3.3-stdlib \
+libltdl-dev libgmpxx4ldbl libmpc-dev expat libexpat1-dev libpython* libpython*-stdlib \
 libssl-dev libssl-dev zlib1g-dev subversion
 
 ./bootstrap
